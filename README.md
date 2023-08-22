@@ -1,1 +1,1 @@
-# musicapplication
+# Music Streaming Application
